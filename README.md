@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anushraya Das👋</h1>
+<h1 align="center">Hi, I'm Anushraya Das 👋</h1>
 <h3 align="center">Data Scientist | Python · SQL · Machine Learning | Pharma Analytics & HCP Segmentation</h3>
 
 <p align="center">
@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anushraya-das-4578a92a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:anushrayadas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
@@ -23,7 +22,7 @@ pipelines, and forecasting models.
 - 🔭 Currently working on **Unified** — an end-to-end pharma HCP engagement analytics pipeline
 - 🌱 Growing toward **ML Engineering** and **Analytics Engineering**
 - 💡 Domain focus: **Pharma Analytics · HCP Segmentation · Engagement Analytics**
-- 📍 Based in India | Open to opportunities in **Hyderabad**, **Banglore**, **Pune**
+- 📍 Based in India | Open to opportunities in **Hyderabad**, **Bangalore**, **Pune**
 - 🎓 Graduate — **ITER**
 
 ---
@@ -81,12 +80,12 @@ Working on **Unified**, an end-to-end pharma engagement analytics project coveri
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🏥 [**Pharma HCP Segmentation & Forecasting**](https://github.com/your-username/pharma-hcp-segmentation-forecasting) | End-to-end pipeline for HCP segmentation and engagement forecasting | Python · SQL · Scikit-learn |
-| 🗃️ [**SQL Analytics Portfolio**](https://github.com/your-username/sql-analytics-portfolio) | Business SQL queries: cohort, funnel, RFM, window functions | SQL |
-| 🎯 [**Customer Segmentation (RFM + K-Means)**](https://github.com/your-username/customer-segmentation-rfm-kmeans) | Segmenting customers by behavior using RFM and clustering | Python · Scikit-learn |
-| 📈 [**Sales Demand Forecasting**](https://github.com/your-username/sales-demand-forecasting) | Time-series forecasting with model comparison | Python · Prophet/ARIMA |
-| 🤖 [**ML Classification Pipeline**](https://github.com/your-username/ml-classification-pipeline) | End-to-end classification: preprocessing → model → evaluation | Scikit-learn |
-| 📊 [**A/B Testing & Statistical Analysis**](https://github.com/your-username/ab-testing-analysis) | Hypothesis testing and significance analysis | Python · SciPy |
+| 🏥 [**Pharma HCP Segmentation & Forecasting**](https://github.com/anushrayadas/pharma-hcp-segmentation-forecasting) | End-to-end pipeline for HCP segmentation and engagement forecasting | Python · SQL · Scikit-learn |
+| 🗃️ [**SQL Analytics Portfolio**](https://github.com/anushrayadas/sql-analytics-portfolio) | Business SQL queries: cohort, funnel, RFM, window functions | SQL |
+| 🎯 [**Customer Segmentation (RFM + K-Means)**](https://github.com/anushrayadas/customer-segmentation-rfm-kmeans) | Segmenting customers by behavior using RFM and clustering | Python · Scikit-learn |
+| 📈 [**Sales Demand Forecasting**](https://github.com/anushrayadas/sales-demand-forecasting) | Time-series forecasting with model comparison | Python · Prophet/ARIMA |
+| 🤖 [**ML Classification Pipeline**](https://github.com/anushrayadas/ml-classification-pipeline) | End-to-end classification: preprocessing → model → evaluation | Scikit-learn |
+| 📊 [**A/B Testing & Statistical Analysis**](https://github.com/anushrayadas/ab-testing-analysis) | Hypothesis testing and significance analysis | Python · SciPy |
 
 ---
 
@@ -115,8 +114,8 @@ Working on **Unified**, an end-to-end pharma engagement analytics project coveri
 ### 📫 Let's Connect
 
 <p>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/anushraya-das-4578a92a6"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:anushrayadas@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat-square&logo=gmail"></a>
 </p>
 
-<p align="center"><i>Open to Data Scientist / ML Engineer / Analytics Engineer roles in Hyderabad</i></p>
+<p align="center"><i>Open to Data Scientist / ML Engineer / Analytics Engineer roles in Hyderabad, Bangalore & Pune</i></p>
