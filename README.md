@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anushraya Das👋</h1>
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
 <h3 align="center">Data Scientist | Python · SQL · Machine Learning | Pharma Analytics & HCP Segmentation</h3>
 
 <p align="center">
@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anushraya-das-4578a92a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:anushrayadas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
@@ -23,7 +23,7 @@ pipelines, and forecasting models.
 - 🔭 Currently working on **Unified** — an end-to-end pharma HCP engagement analytics pipeline
 - 🌱 Growing toward **ML Engineering** and **Analytics Engineering**
 - 💡 Domain focus: **Pharma Analytics · HCP Segmentation · Engagement Analytics**
-- 📍 Based in India | Open to opportunities in **Hyderabad**
+- 📍 Based in India | Open to opportunities in **Hyderabad**, **Banglore**, **Pune**
 - 🎓 Graduate — **ITER**
 
 ---
@@ -115,8 +115,8 @@ Working on **Unified**, an end-to-end pharma engagement analytics project coveri
 ### 📫 Let's Connect
 
 <p>
-<a href="https://www.linkedin.com/in/anushraya-das-4578a92a6"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:anushrayadas@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat-square&logo=gmail"></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat-square&logo=gmail"></a>
 </p>
 
 <p align="center"><i>Open to Data Scientist / ML Engineer / Analytics Engineer roles in Hyderabad</i></p>
