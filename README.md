@@ -1,79 +1,93 @@
 <h1 align="center">Hi, I'm Anushraya Das 👋</h1>
-<h3 align="center">Data Scientist | Python · SQL · Machine Learning | Pharma Analytics & HCP Segmentation</h3>
+<h3 align="center">Data Scientist | GenAI & RAG Systems | Python · SQL · FastAPI · LangChain</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%40+Involead;Segmentation+%7C+Forecasting+%7C+SQL+Analytics;Turning+raw+data+into+business+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Scientist+%40+Involead;Building+GenAI+%2F+RAG+Systems+with+FastAPI;Segmentation+%7C+Classification+%7C+Semantic+Search" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anushraya-das-4578a92a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:anushrayadas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="http://127.0.0.1:5500/index.html"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm an **Associate Data Scientist at Involead** with 1+ year of experience building **segmentation,
-forecasting, and SQL-driven analytics** for pharma engagement use cases. I work across the full
-analytics lifecycle — from raw data generation and cleaning, to SQL-based analysis, segmentation
-pipelines, and forecasting models.
+I'm an **Associate Data Scientist at Involead** building **GenAI/LLM-powered applications, RAG pipelines,
+and production-grade REST APIs** using Python, SQL, and FastAPI. My work spans predictive modeling,
+clustering & segmentation, feature engineering, and statistical analysis, with hands-on exposure to
+**Azure OpenAI, AWS S3, and vector databases (Qdrant, Chroma)** for GenAI integration.
 
-- 🔭 Currently working on **Unified** — an end-to-end pharma HCP engagement analytics pipeline
-- 🌱 Growing toward **ML Engineering** and **Analytics Engineering**
-- 💡 Domain focus: **Pharma Analytics · HCP Segmentation · Engagement Analytics**
-- 📍 Based in India | Open to opportunities in **Hyderabad**, **Bangalore**, **Pune**
-- 🎓 Graduate — **ITER**
+I've delivered semantic search, query-driven segmentation workflows, and Power BI dashboards for
+healthcare/pharma analytics — cutting stakeholder reporting turnaround by ~50%.
+
+- 🔭 Currently building backend APIs for two production GenAI platforms — **Segmentation AI** & **Classification AI**
+- ✅ Recently completed: **Unified**, a conversational GenAI analytics platform (owned the segmentation module)
+- 🌱 Growing deeper into **RAG architecture, LLM evaluation, and applied AI engineering**
+- 📍 Based in Bhubaneswar, Odisha | Open to roles in **Hyderabad, Bangalore, Pune**
+- 🎓 B.Tech CSE — **ITER, SOA University** (2021–2025)
 
 ---
 
 ### 🛠️ Skills
 
-**Languages & Core Tools**
+**Languages**
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+</p>
+
+**GenAI & NLP**
+
+<p>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/RAG-412991?style=flat-square">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square">
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square">
+<img src="https://img.shields.io/badge/Chroma-6A0DAD?style=flat-square">
+</p>
+
+**Machine Learning**
+
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/XGBoost-EB0028?style=flat-square">
+<img src="https://img.shields.io/badge/Clustering%20%26%20Segmentation-2E9EF7?style=flat-square">
+<img src="https://img.shields.io/badge/Feature%20Engineering-2E9EF7?style=flat-square">
+<img src="https://img.shields.io/badge/Anomaly%20Detection-2E9EF7?style=flat-square">
+<img src="https://img.shields.io/badge/EDA-2E9EF7?style=flat-square">
+</p>
+
+**Frameworks, Data & Cloud**
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-</p>
-
-**Data Science & ML**
-
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=flat-square">
-<img src="https://img.shields.io/badge/Data%20Analysis-2E9EF7?style=flat-square">
-<img src="https://img.shields.io/badge/Data%20Cleaning-2E9EF7?style=flat-square">
-<img src="https://img.shields.io/badge/Segmentation-2E9EF7?style=flat-square">
-<img src="https://img.shields.io/badge/Forecasting-2E9EF7?style=flat-square">
-<img src="https://img.shields.io/badge/EDA-2E9EF7?style=flat-square">
-<img src="https://img.shields.io/badge/Feature%20Engineering-2E9EF7?style=flat-square">
-</p>
-
-**Domain**
-
-<p>
-<img src="https://img.shields.io/badge/Pharma%20Analytics-6A0DAD?style=flat-square">
-<img src="https://img.shields.io/badge/HCP%20Segmentation-6A0DAD?style=flat-square">
-<img src="https://img.shields.io/badge/Engagement%20Analytics-6A0DAD?style=flat-square">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 </p>
 
 ---
 
 ### 💼 Current Work
 
-**Associate Data Scientist @ Involead** *(1+ year)*
-Working on **Unified**, an end-to-end pharma engagement analytics project covering:
-- Dataset research and data generation
-- Data cleaning and validation
-- SQL-based analysis
-- HCP segmentation pipeline
-- Engagement forecasting
-- AI-assisted analytics components
+**Associate Data Scientist @ Involead** *(Aug 2025 – Present)*
+- Building and maintaining scalable **FastAPI** backend APIs for two enterprise GenAI platforms — **Segmentation AI** and **Classification AI** — with LLM-powered features, RAG-based semantic search, and streaming responses
+- Designing and deploying **LangChain-based RAG pipelines** with a **Qdrant** vector database and prompt engineering for context-aware Q&A
+- Maintaining **3+ Power BI dashboards**, cutting stakeholder reporting turnaround by ~50%
+- Building **SQL-based ETL pipelines** and validation workflows across HCP, prescription, and market-intelligence datasets
 
 ---
 
@@ -81,12 +95,12 @@ Working on **Unified**, an end-to-end pharma engagement analytics project coveri
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🏥 [**Pharma HCP Segmentation & Forecasting**](https://github.com/anushrayadas/pharma-hcp-segmentation-forecasting) | End-to-end pipeline for HCP segmentation and engagement forecasting | Python · SQL · Scikit-learn |
-| 🗃️ [**SQL Analytics Portfolio**](https://github.com/anushrayadas/sql-analytics-portfolio) | Business SQL queries: cohort, funnel, RFM, window functions | SQL |
-| 🎯 [**Customer Segmentation (RFM + K-Means)**](https://github.com/anushrayadas/customer-segmentation-rfm-kmeans) | Segmenting customers by behavior using RFM and clustering | Python · Scikit-learn |
-| 📈 [**Sales Demand Forecasting**](https://github.com/anushrayadas/sales-demand-forecasting) | Time-series forecasting with model comparison | Python · Prophet/ARIMA |
-| 🤖 [**ML Classification Pipeline**](https://github.com/anushrayadas/ml-classification-pipeline) | End-to-end classification: preprocessing → model → evaluation | Scikit-learn |
-| 📊 [**A/B Testing & Statistical Analysis**](https://github.com/anushrayadas/ab-testing-analysis) | Hypothesis testing and significance analysis | Python · SciPy |
+| 🧩 [**Unified — Conversational AI Analytics Platform**](https://github.com/anushrayadas/unified-ai-platform) | Query-driven segmentation module for a GenAI platform that answers natural-language queries with dynamic visualizations | Python · SQL · PostgreSQL · FastAPI · LangChain · Azure OpenAI · AWS S3 |
+| 🎯 [**Segmentation AI Platform**](https://github.com/anushrayadas/segmentation-ai-platform) | Backend APIs for a GenAI segmentation platform — clustering comparison, AI health summaries, semantic-search "Ask AI" via RAG | Python · FastAPI · LangChain · Qdrant · LLMs |
+| 🛡️ [**Classification AI Platform**](https://github.com/anushrayadas/classification-ai-platform) | Data quality & anomaly detection APIs with feature recommendation and model performance evaluation | Python · FastAPI · LLMs · Feature Engineering |
+| 📊 [**A/B Testing & Analytics Dashboards**](https://github.com/anushrayadas/ab-testing-analytics-dashboards) | End-to-end A/B testing workflows with interactive Power BI dashboards translating results into business recommendations | Python · Pandas · NumPy · Power BI |
+| 🗃️ [**SQL Analytics Portfolio**](https://github.com/anushrayadas/sql-analytics-portfolio) | Business SQL queries: cohort analysis, funnel analysis, RFM, window functions | SQL |
+| 🤖 [**RAG From Scratch**](https://github.com/anushrayadas/rag-from-scratch) | Minimal RAG pipeline built from first principles — chunking, embeddings, vector search, retrieval-augmented generation | Python · LangChain · Chroma |
 
 ---
 
@@ -105,10 +119,10 @@ Working on **Unified**, an end-to-end pharma engagement analytics project coveri
 
 ### 🎯 Currently Learning / Goals
 
-- Deepening **time-series forecasting** (Prophet, ARIMA, LSTM basics)
-- Strengthening **MLOps fundamentals** (model deployment, pipelines)
+- Deepening **RAG architecture** — advanced retrieval, re-ranking, evaluation
+- Strengthening **LLM evaluation & MLOps** fundamentals for production AI systems
 - Advanced **SQL performance & window functions**
-- Moving toward **Analytics Engineering** practices (dbt, data modeling)
+- Exploring **Applied AI Engineering** and multi-agent workflows
 
 ---
 
@@ -119,4 +133,4 @@ Working on **Unified**, an end-to-end pharma engagement analytics project coveri
 <a href="mailto:anushrayadas@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat-square&logo=gmail"></a>
 </p>
 
-<p align="center"><i>Open to Data Scientist / ML Engineer / Analytics Engineer roles in Hyderabad, Bangalore & Pune</i></p>
+<p align="center"><i>Open to Data Scientist / GenAI Engineer / Applied AI Engineer / ML Engineer roles in Hyderabad, Bangalore & Pune</i></p>
