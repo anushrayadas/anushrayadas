@@ -24,7 +24,7 @@ I've delivered semantic search, query-driven segmentation workflows, and Power B
 healthcare/pharma analytics — cutting stakeholder reporting turnaround by ~50%.
 
 - ✅ Last major delivery: **Unified** — a conversational GenAI analytics platform (owned the segmentation module, completed)
-- 🎯 Currently between official projects — using this time to build public portfolio work in GenAI/RAG and applied ML
+- 🎯 Currently between official projects — using this time to learning things deeply.
 - 🌱 Growing deeper into **RAG architecture, LLM evaluation, and applied AI engineering**
 - 📍 Based in Bhubaneswar, Odisha | Open to roles in **Hyderabad, Bangalore, Pune**
 - 🎓 B.Tech CSE — **ITER, SOA University** (2021–2025)
