@@ -8,22 +8,23 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/anushraya-das-4578a92a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:anushrayadas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://anushrayadas.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm an **Associate Data Scientist at Involead** building **GenAI/LLM-powered applications, RAG pipelines,
-and production-grade REST APIs** using Python, SQL, and FastAPI. My work spans predictive modeling,
-clustering & segmentation, feature engineering, and statistical analysis, with hands-on exposure to
-**Azure OpenAI, AWS S3, and vector databases (Qdrant, Chroma)** for GenAI integration.
+I'm an **Associate Data Scientist at Involead** with 1+ year of experience building **GenAI/LLM-powered
+applications, RAG pipelines, and production-grade REST APIs** using Python, SQL, and FastAPI. My work
+spans predictive modeling, clustering & segmentation, feature engineering, and statistical analysis,
+with hands-on exposure to **Azure OpenAI, AWS S3, and vector databases (Qdrant, Chroma)**.
 
 I've delivered semantic search, query-driven segmentation workflows, and Power BI dashboards for
 healthcare/pharma analytics — cutting stakeholder reporting turnaround by ~50%.
 
-- 🔭 Currently building backend APIs for two production GenAI platforms — **Segmentation AI** & **Classification AI**
-- ✅ Recently completed: **Unified**, a conversational GenAI analytics platform (owned the segmentation module)
+- ✅ Last major delivery: **Unified** — a conversational GenAI analytics platform (owned the segmentation module, completed)
+- 🎯 Currently between official projects — using this time to build public portfolio work in GenAI/RAG and applied ML
 - 🌱 Growing deeper into **RAG architecture, LLM evaluation, and applied AI engineering**
 - 📍 Based in Bhubaneswar, Odisha | Open to roles in **Hyderabad, Bangalore, Pune**
 - 🎓 B.Tech CSE — **ITER, SOA University** (2021–2025)
@@ -81,13 +82,23 @@ healthcare/pharma analytics — cutting stakeholder reporting turnaround by ~50%
 
 ---
 
-### 💼 Current Work
+### 💼 Professional Experience
 
 **Associate Data Scientist @ Involead** *(Aug 2025 – Present)*
-- Building and maintaining scalable **FastAPI** backend APIs for two enterprise GenAI platforms — **Segmentation AI** and **Classification AI** — with LLM-powered features, RAG-based semantic search, and streaming responses
-- Designing and deploying **LangChain-based RAG pipelines** with a **Qdrant** vector database and prompt engineering for context-aware Q&A
-- Maintaining **3+ Power BI dashboards**, cutting stakeholder reporting turnaround by ~50%
-- Building **SQL-based ETL pipelines** and validation workflows across HCP, prescription, and market-intelligence datasets
+- Built and maintained scalable **FastAPI** backend APIs for enterprise GenAI platforms (Segmentation AI, Classification AI), integrating LLM-powered features, RAG-based semantic search, and streaming responses
+- Designed and deployed **LangChain-based RAG pipelines** with a **Qdrant** vector database and prompt engineering for context-aware Q&A
+- Developed and maintained **3+ Power BI dashboards**, cutting stakeholder reporting turnaround by ~50%
+- Built **SQL-based ETL pipelines** and validation workflows across HCP, prescription, and market-intelligence datasets
+- Delivered the segmentation module for **Unified**, a conversational GenAI analytics platform *(completed — see Featured Projects)*
+
+---
+
+### 📁 Portfolio
+
+Since my official work sits behind company IP, I'm building public projects here that demonstrate the
+same skills — GenAI/RAG pipelines, segmentation, and applied ML — using open data and original code.
+
+🔗 **Portfolio site:** [anushrayadas.github.io](https://anushrayadas.github.io) *(add your real link once live)*
 
 ---
 
@@ -95,12 +106,12 @@ healthcare/pharma analytics — cutting stakeholder reporting turnaround by ~50%
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🧩 [**Unified — Conversational AI Analytics Platform**](https://github.com/anushrayadas/unified-ai-platform) | Query-driven segmentation module for a GenAI platform that answers natural-language queries with dynamic visualizations | Python · SQL · PostgreSQL · FastAPI · LangChain · Azure OpenAI · AWS S3 |
-| 🎯 [**Segmentation AI Platform**](https://github.com/anushrayadas/segmentation-ai-platform) | Backend APIs for a GenAI segmentation platform — clustering comparison, AI health summaries, semantic-search "Ask AI" via RAG | Python · FastAPI · LangChain · Qdrant · LLMs |
-| 🛡️ [**Classification AI Platform**](https://github.com/anushrayadas/classification-ai-platform) | Data quality & anomaly detection APIs with feature recommendation and model performance evaluation | Python · FastAPI · LLMs · Feature Engineering |
+| 🧩 [**Unified — Conversational AI Analytics Platform**](https://github.com/anushrayadas/unified-ai-platform) | Query-driven segmentation module for a GenAI platform that answers natural-language queries with dynamic visualizations *(last official project, completed)* | Python · SQL · PostgreSQL · FastAPI · LangChain · Azure OpenAI · AWS S3 |
+| 🤖 [**RAG From Scratch**](https://github.com/anushrayadas/rag-from-scratch) | Minimal RAG pipeline built from first principles — chunking, embeddings, vector search, retrieval-augmented generation | Python · LangChain · Chroma |
+| 🎯 [**Customer Segmentation (RFM + K-Means)**](https://github.com/anushrayadas/customer-segmentation-rfm-kmeans) | Segmenting customers by behavior using RFM and clustering, with business recommendations | Python · Scikit-learn |
 | 📊 [**A/B Testing & Analytics Dashboards**](https://github.com/anushrayadas/ab-testing-analytics-dashboards) | End-to-end A/B testing workflows with interactive Power BI dashboards translating results into business recommendations | Python · Pandas · NumPy · Power BI |
 | 🗃️ [**SQL Analytics Portfolio**](https://github.com/anushrayadas/sql-analytics-portfolio) | Business SQL queries: cohort analysis, funnel analysis, RFM, window functions | SQL |
-| 🤖 [**RAG From Scratch**](https://github.com/anushrayadas/rag-from-scratch) | Minimal RAG pipeline built from first principles — chunking, embeddings, vector search, retrieval-augmented generation | Python · LangChain · Chroma |
+| 🛡️ [**Anomaly Detection & Data Quality Toolkit**](https://github.com/anushrayadas/anomaly-detection-toolkit) | Reusable data validation and anomaly detection pipeline with feature profiling | Python · Scikit-learn |
 
 ---
 
