@@ -38,8 +38,6 @@ healthcare/pharma analytics — cutting stakeholder reporting turnaround by ~50%
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
 </p>
 
 **GenAI & NLP**
@@ -48,7 +46,6 @@ healthcare/pharma analytics — cutting stakeholder reporting turnaround by ~50%
 <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/RAG-412991?style=flat-square">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
 <img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=flat-square">
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square">
